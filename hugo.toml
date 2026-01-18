@@ -23,3 +23,7 @@ defaultContentLanguage = 'en'
 [params]
 lightTheme = "emerald"
 darkTheme = "forest"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
