@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on Curious Compute</title>
+    <link>http://localhost:1313/es/categories/guide/</link>
+    <description>Recent content in Guide on Curious Compute</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Dec 2025 12:40:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primera Publicación Bilingüe</title>
+      <link>http://localhost:1313/es/posts/my-first-bilingual-post/</link>
+      <pubDate>Tue, 09 Dec 2025 12:40:41 +0100</pubDate>
+      <guid>http://localhost:1313/es/posts/my-first-bilingual-post/</guid>
+      <description>&lt;p&gt;Esta es la versión en español de mi primera publicación bilingüe.&lt;/p&gt;&#xA;&lt;p&gt;¡Hola Mundo!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

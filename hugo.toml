@@ -1,0 +1,25 @@
+baseURL = 'https://curious-compute.example.dev/'
+title = 'Curious Compute'
+theme = 'dream'
+defaultContentLanguage = 'en'
+
+# Define the taxonomies for the site. This allows us to use 'categories' for
+# content types (e.g., guide, tip) and 'tags' for topics (e.g., python, sql).
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+# Language configuration
+[languages]
+  [languages.en]
+    title = 'Curious Compute'
+    languageName = 'English'
+    weight = 1
+  [languages.es]
+    title = 'Curious Compute'
+    languageName = 'Español'
+    weight = 2
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
